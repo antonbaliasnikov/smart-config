@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.1-pre](https://github.com/antonbaliasnikov/smart-config/compare/v0.3.0...v0.3.1-pre) (2025-07-01)
+
+
+### Bug Fixes
+
+* docs version auto-update through release-please ([aeed03c](https://github.com/antonbaliasnikov/smart-config/commit/aeed03c4adbbfc6b4efdc7d592e84deb6ec3e6e2))
+* test new config ([0e3830e](https://github.com/antonbaliasnikov/smart-config/commit/0e3830ee75c6a073d9eff25e8e68b2e9416ded36))
+* test new config ([f141b9d](https://github.com/antonbaliasnikov/smart-config/commit/f141b9dfa6f6f1548c17cecc80f41b33e220737e))
+* test new config ([994cfb6](https://github.com/antonbaliasnikov/smart-config/commit/994cfb63f65cbd410fe0a1b22ba0ecbbb2ce3985))
+* test new config ([aafdc5a](https://github.com/antonbaliasnikov/smart-config/commit/aafdc5a7d789cf31937ccafe9d00a7b377736173))
+* Update manifest.json ([a92b80f](https://github.com/antonbaliasnikov/smart-config/commit/a92b80f4ddca43570f973c95148ce5ca52eb9203))
+
 ## [0.3.0](https://github.com/matter-labs/smart-config/compare/v0.2.0...v0.3.0) (2025-06-25)
 
 
