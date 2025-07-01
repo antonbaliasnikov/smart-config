@@ -12,6 +12,10 @@
       "release-type": "simple",
       "extra-files": [
         {
+          "type": "toml",
+          "path": "Cargo.toml"
+        },
+        {
           "type": "generic",
           "path": "crates/smart-config-commands/README.md"
         },
