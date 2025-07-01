@@ -1,6 +1,9 @@
 {
   "bootstrap-sha": "cb39c0555d60ea1cf062e0483d80189ed76b97fd",
   "include-component-in-tag": false,
+  "prerelease": true,
+  "prerelease-type": "pre",
+  "versioning": "prerelease",
   "bump-minor-pre-major": true,
   "bump-patch-for-minor-pre-major": false,
   "packages": {
