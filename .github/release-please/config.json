@@ -10,7 +10,23 @@
       "extra-files": [
         {
           "type": "generic",
-          "path": "Cargo.toml"
+          "path": "crates/smart-config-commands/README.md"
+        },
+        {
+          "type": "generic",
+          "path": "crates/smart-config-commands/src/lib.rs"
+        },
+        {
+          "type": "generic",
+          "path": "crates/smart-config-derive/src/lib.rs"
+        },
+        {
+          "type": "generic",
+          "path": "crates/smart-config/README.md"
+        },
+        {
+          "type": "generic",
+          "path": "crates/smart-config/src/lib.rs"
         }
       ]
     }
